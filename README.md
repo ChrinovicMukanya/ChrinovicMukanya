@@ -4,7 +4,7 @@
 <img align="center" alt="Systems Programming" width="400" src="https://c4.wallpaperflare.com/wallpaper/262/610/554/cpu-motherboard-geek-electrical-network-wallpaper-preview.jpg">
 
 
-Interested in,Machine Learning & Artificial Intelligence | Data Science | Crytography and Security | Mathematics and Computation | Hardware Systems programming
+Interested in, Machine Learning & Artificial Intelligence | Data Science | Crytography and Security | Mathematics and Computation | Hardware Systems programming
 
 - 📫 How to reach me **chrinovicmu@gmail.com**
 
