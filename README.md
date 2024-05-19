@@ -24,5 +24,4 @@ Interested in,Machine Learning & Artificial Intelligence | Data Science | Crytog
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrinovicmukanya&show_icons=true&locale=en&layout=compact" alt="chrinovicmukanya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrinovicmukanya&" alt="chrinovicmukanya" /></p>
  
