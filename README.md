@@ -1,8 +1,6 @@
 
-Hi , I'm Chrinovic <br>
--I love Systems Programming 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrinovicmukanya&show_icons=true&locale=en&layout=compact" alt="chrinovicmukanya" /></p>
+<b>Hi , I'm Chrinovic</b> <br>
+-I love Systems Programming <br>
+-Weakest C & Assembly enjoyer 
 
  
